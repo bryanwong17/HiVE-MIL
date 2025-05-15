@@ -1,0 +1,47 @@
+{
+  "IDC": {
+    "Infiltrative Tumor Regions": "At 5×, irregularly shaped, ill-defined tumor regions invade surrounding tissue, displacing or distorting adjacent structures.",
+    "Dense Tumor Cellularity": "Low-power view reveals solid nests or trabecular cords of tumor cells occupying large portions of the parenchyma.",
+    "Necrotic Zones": "Focal areas of necrosis, sometimes centrally located within tumor nests, give rise to ghost cell zones and debris.",
+    "Distorted Stromal Architecture": "Stroma shows reactive changes and desmoplasia due to infiltrative and space-occupying tumor growth.",
+
+    "Pleomorphic Tumor Cells": "At 20×, tumor cells display marked variation in size and shape, with irregular contours and disorganized architecture.",
+    "Irregular Nuclear Contours": "Nuclei show jagged, wrinkled borders, with coarse chromatin and frequent mitotic figures.",
+    "High Nuclear-to-Cytoplasmic Ratio": "Tumor cells have large hyperchromatic nuclei and scant cytoplasm, reflecting aggressive cellular proliferation.",
+
+    "Prominent Nucleoli": "Nuclei often feature conspicuous eosinophilic nucleoli, characteristic of high-grade IDC.",
+    "Increased Mitotic Activity": "Numerous mitoses, including abnormal forms, are visible, particularly at invasive fronts.",
+    "Glandular or Trabecular Formations": "Tumor architecture includes malformed gland-like ducts or linear trabeculae amidst fibrotic stroma.",
+
+    "Desmoplastic Stromal Response": "Fibroblast-rich, fibrotic stroma surrounds tumor nests and glandular elements.",
+    "Reactive Fibrosis": "Dense collagen bundles with stromal retraction and scattered lymphocytes surround invasive regions.",
+    "Peritumoral Lymphocytic Aggregates": "Clusters of immune cells at tumor-stroma borders suggest host response to invasion.",
+
+    "Ghost Cell Debris": "Necrotic areas contain pyknotic nuclei, faded cytoplasm, and fragmented cell remnants.",
+    "Peripheral Viable Tumor Rim": "Viable tumor cells form a rim around necrosis, often with hyperchromatic nuclei and mitotic activity.",
+    "Mixed Inflammatory Infiltrate": "Neutrophils and macrophages infiltrate around necrotic zones, indicating tumor-host interaction."
+  },
+
+  "ILC": {
+    "Single-File Growth Pattern": "At 5×, tumor cells infiltrate in linear rows between stromal fibers, forming classic Indian-file architecture.",
+    "Diffuse Infiltration": "Tumor cells are widely dispersed across the stroma, lacking mass-forming architecture.",
+    "Scattered Tumor Cells": "Neoplastic cells appear loosely distributed, often without clustering or clear nest formation.",
+    "Loss of Cohesive Structures": "Absence of glandular or trabecular patterns, with minimal distortion of pre-existing tissue architecture.",
+
+    "Small, Uniform Tumor Cells": "At 20×, tumor cells are monomorphic, with small round-to-oval nuclei and inconspicuous nucleoli.",
+    "Round or Oval Nuclei": "Nuclear morphology is bland, with smooth contours and fine chromatin.",
+    "Minimal Pleomorphism": "Cellular features are uniform, with very limited variability in size, shape, or staining.",
+
+    "Intracytoplasmic Mucin": "Clear cytoplasmic vacuoles displace nuclei, creating a targetoid or signet-ring–like appearance.",
+    "Lack of Glandular Structures": "No lumen formation or epithelial polarity is observed, differentiating ILC from IDC.",
+    "Diffuse Growth Pattern": "Tumor spreads diffusely through stroma, often preserving native tissue landmarks.",
+
+    "Sparse Stromal Reaction": "Fibrous stroma is loose and minimally reactive, contrasting with the desmoplasia in IDC.",
+    "Isolated Single Cells": "Tumor cells often appear as single entities, lacking intercellular adhesion or junctions.",
+    "Perivascular or Periductal Infiltration": "Tumor cells wrap around existing ducts and vessels without destruction, maintaining normal tissue outlines.",
+
+    "Nuclear Monotony": "Cells exhibit uniform nuclear size, shape, and chromatin, reflecting low-grade morphology.",
+    "Clear Cytoplasm with Vacuoles": "Cytoplasm appears pale with discrete vacuoles, often mistaken for benign tissue.",
+    "Loss of E-cadherin Expression": "Absence of cell adhesion molecules explains discohesive behavior, visible through architectural disarray."
+  }
+}

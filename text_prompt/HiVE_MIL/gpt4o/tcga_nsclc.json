@@ -1,0 +1,46 @@
+{
+  "LUAD": {
+    "Glandular Acinar Patterns": "Well-circumscribed acinar structures composed of atypical cuboidal to columnar epithelial cells, often containing intraluminal mucin and exhibiting mild nuclear pleomorphism.",
+    "Papillary Configurations": "Branching papillary structures supported by delicate fibrovascular cores, lined by stratified columnar tumor cells with nuclear pseudostratification and occasional apical tufting.",
+    "Lepidic Growth": "Tumor cells spreading along intact alveolar septa without architectural distortion, preserving pulmonary parenchyma and lacking stromal invasion.",
+    "Solid Sheets with Mucin Production": "Compact tumor cell sheets without glandular formation, exhibiting cytoplasmic mucin vacuoles, nuclear pleomorphism, and high nuclear-to-cytoplasmic ratios.",
+    
+    "Irregular Gland Outlines": "Angulated, non-uniform glandular profiles with irregular lumina, nuclear crowding, and focal mucin, indicating infiltrative glandular transformation.",
+    "Nuclear Hyperchromasia": "Darkly stained, enlarged nuclei with coarse chromatin and prominent nucleoli, often accompanied by atypical mitotic figures.",
+    "Fibrotic Stromal Response": "Dense fibrous stroma with activated fibroblasts and peritumoral lymphocytic infiltration, reflecting desmoplastic reaction around malignant glands.",
+    
+    "Complex Branching Papillae": "Elaborately branched papillary fronds lined by multilayered atypical cells, often with central necrosis and early signs of stromal infiltration.",
+    "Fibrovascular Core Vessels": "Central capillaries within papillary stalks, surrounded by scant inflammatory cells and sometimes displaying endothelial proliferation or basement membrane changes.",
+    "Apical Epithelial Tufts": "Protruding apical structures formed by columnar tumor cells with eosinophilic cytoplasm and low-grade nuclear stratification, occasionally secreting mucin.",
+    
+    "Flat Monolayer Proliferation": "Single layer of atypical cells lining alveolar walls, maintaining underlying architecture with subtle nuclear atypia and minimal stromal response.",
+    "Preserved Alveolar Architecture": "Retention of alveolar septa and capillary framework despite tumor cell proliferation, often accompanied by mild inflammation.",
+    "Mucinous Secretions": "Extracellular mucin accumulation within alveolar spaces, bordered by flattened tumor cells, suggesting early mucin-producing differentiation.",
+    
+    "Coalescent Cell Clusters": "Irregularly bordered nests or aggregates of poorly differentiated tumor cells with hyperchromatic nuclei and scant glandular features.",
+    "Intracellular Mucin Pools": "Cytoplasmic mucin displacing the nucleus to the periphery, creating signet-ring-like cells typical of mucinous adenocarcinoma variants.",
+    "Central Necrotic Foci": "Necrotic zones within solid tumor areas, surrounded by viable malignant cells, showing karyorrhexis, inflammation, and early cavitation."
+  },
+  "LUSC": {
+    "Keratin Pearls": "Concentric layers of eosinophilic keratinized material encircled by malignant squamous cells, hallmark of well-differentiated squamous carcinoma.",
+    "Intercellular Bridges": "Cytoplasmic connections between adjacent tumor cells, representing retained desmosomal junctions typical of squamous differentiation.",
+    "Dyskeratotic Cells": "Isolated eosinophilic tumor cells undergoing premature keratinization, appearing as dense, glassy bodies within cell clusters.",
+    "Squamous Eddies": "Swirling arrangements of keratinizing squamous cells, forming eddy-like patterns often seen in keratinizing regions.",
+    
+    "Concentric Lamellae": "Onion-skin–like layers of compact keratin, indicating advanced squamous maturation in well-differentiated tumors.",
+    "Central Keratin Accumulation": "Dense eosinophilic keratin material in the center of tumor nests, displacing surrounding malignant cells outward.",
+    "Peripheral Reactive Stroma": "Fibroblastic and inflammatory stromal response surrounding keratinizing nests, often with multinucleated giant cells.",
+    
+    "Desmosomal Thickenings": "Pronounced desmosomal plaques visible at tumor cell junctions, reinforcing epithelial cohesion in squamous cells.",
+    "Bridging Spines": "Elongated cytoplasmic projections maintaining intercellular contacts, characteristic of squamous cell architecture.",
+    "Intercellular Gaps": "Narrow spaces between adjacent tumor cells with intact desmosomal attachments, allowing minimal extracellular fluid passage.",
+    
+    "Premature Keratin Accumulation": "Early keratin buildup within individual cells, causing nuclear condensation and cytoplasmic eosinophilia in dyskeratotic zones.",
+    "Eccentric Hyperchromatic Nuclei": "Peripheral, dark-staining nuclei compressed by cytoplasmic keratin, showing irregular contours and coarse chromatin.",
+    "Focal Cell Lysis": "Localized necrosis with keratin extrusion and surrounding inflammatory infiltrates, occurring within tumor nests.",
+    
+    "Spiralized Cellular Streams": "Corkscrew-like arrangements of tumor cells showing organized squamous maturation with partial keratinization.",
+    "Vortex-Like Whorls": "Dense, spiral patterns of malignant squamous cells with central keratinization and peripheral nuclear reorientation.",
+    "Peripheral Flattening": "Peripheral squamous cells becoming flattened along the edges of nests, demarcating mature keratinizing foci."
+  }
+}

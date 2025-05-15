@@ -1,0 +1,71 @@
+{
+    "CCRCC": {
+      "Clear Cytoplasm Dominance": "At 5x, tumor cells appear in sheets or nests with optically clear cytoplasm due to lipid/glycogen, bounded by crisp membranes.",
+      "Alveolar-Nested Architecture": "Low power reveals pseudo-alveolar structures formed by small tumor nests and intervening thin fibrovascular septa.",
+      "Prominent Sinusoidal Vasculature": "Numerous sinusoidal capillaries form arborizing patterns wrapping around tumor clusters.",
+      "Minimal Nuclear Atypia": "Tumor nuclei show minimal pleomorphism, with low-grade features distributed evenly across nests.",
+      
+      "Intracytoplasmic Glycogen/Lipid Accumulation": "At 20x, cytoplasm is vacuolated and optically clear due to lipid or glycogen content.",
+      "Peripheral Nuclear Displacement": "Nuclei are eccentrically located, pushed to the cell periphery by abundant cytoplasm.",
+      "Fine Cell Membrane Borders": "Well-demarcated cell borders are easily identifiable at high magnification.",
+      
+      "Small Tumor Nests": "Compact, round nests of tumor cells mimic alveolar units, often surrounded by fine capillaries.",
+      "Intervening Thin Fibrovascular Septa": "Nests are separated by delicate fibrovascular septa lined by flat endothelial cells.",
+      "Lack of Papillary Structures": "No fibrovascular cores or true papillae are evident, aiding subtype distinction.",
+      
+      "Rich Capillary Networks": "20x shows dense, branching vascular beds extending between and around tumor clusters.",
+      "Endothelial Wrapping": "Capillaries encase the nests with endothelial cells forming tight boundaries.",
+      "Erythrocyte-Filled Lumina": "Sinusoidal spaces frequently appear engorged with red blood cells.",
+      
+      "Low Nuclear Grade": "Nuclei are round with uniform chromatin, corresponding to Fuhrman grade I–II.",
+      "Inconspicuous Nucleoli": "Nucleoli are small or absent under 20x, suggesting low proliferative activity.",
+      "Uniform Chromatin": "Evenly distributed chromatin supports low-grade tumor morphology."
+    },
+  
+    "CHRCC": {
+      "Pale Eosinophilic Cytoplasm": "At 5x, tumor cells exhibit pale pink cytoplasm with central nuclei and minimal architectural variation.",
+      "Solid Sheet Growth Pattern": "Tumor grows in broad cohesive sheets with minimal stromal interruption or patterning.",
+      "Perinuclear Clearing": "Halo-like clearing around nuclei imparts a distinct plant-cell morphology.",
+      "Plant-like or Mosaic Growth": "Geographic arrangements of cells create a tiled or mosaic-like appearance under low magnification.",
+      
+      "Prominent Perinuclear Halo": "Clear perinuclear zones caused by microvesicular cytoplasm dominate the cell morphology.",
+      "Reticulated Cytoplasm": "Fine vesicle-like reticulations are visible in cytoplasm under higher magnification.",
+      "Dense Cell Borders": "Polygonal tumor cells have well-defined borders and cytoplasmic outlines.",
+      
+      "Broad Cell Plates": "Cells form expansive, cohesive units with minimal architectural disruption.",
+      "Lack of Fibrovascular Core": "Growth pattern lacks central fibrovascular structures, reinforcing solid architecture.",
+      "Sparse Mitoses": "Few mitotic figures are observed, suggesting low-grade proliferative activity.",
+      
+      "Clear Perinuclear Cytoplasmic Zones": "Large halos or perinuclear clearing disrupts cytoplasmic uniformity.",
+      "Irregular Nuclei": "Nuclear contours are wrinkled or raisinoid in appearance.",
+      "Binucleation": "Multiple nuclei within a single cell are commonly observed.",
+      
+      "Geographic Cell Grouping": "Tumor cells form clustered patches resembling tiles or islands.",
+      "Peripheral Cytoplasmic Accentuations": "Borders are thickened or accentuated at the cell periphery.",
+      "Eosinophilic Granularity": "Cytoplasm contains fine, pink-staining granules."
+    },
+  
+    "PRCC": {
+      "Papillary/Trabecular Architecture": "At 5x, tumor growth includes true papillae and trabecular structures with alternating cords and sheets.",
+      "Foamy Macrophage Aggregates": "Pale yellow zones containing lipid-laden macrophages are seen within tumor stroma and papillae.",
+      "Pseudostratified Tumor Epithelium": "Papillae are lined by tumor cells with crowded, elongated nuclei mimicking stratification.",
+      "Psammoma Body Formation": "Calcified concentric structures are visible in the cores or adjacent stroma under low magnification.",
+      
+      "True Papillae": "Well-formed fibrovascular cores lined by a single or pseudostratified tumor epithelium are present.",
+      "Pseudopapillary Areas": "Incomplete or collapsed papillary structures lacking central cores are seen.",
+      "Trabecular Slits": "Linear cords of tumor cells form slit-like spaces within loose fibrotic stroma.",
+      
+      "Intraluminal Clusters": "Macrophages aggregate in luminal spaces or within papillary cores.",
+      "Vacuolated Cytoplasm": "Lipid content gives macrophages a foamy, vacuolated appearance.",
+      "Hemosiderin Pigmentation": "Golden-brown pigment granules are deposited within macrophage cytoplasm.",
+      
+      "High Nuclear Crowding": "Elongated nuclei densely crowd near the apical surface of epithelial layers.",
+      "Hyperchromatic Nuclei": "Nuclei are darkly stained, often irregular in shape.",
+      "Mitotic Figures": "Frequent mitotic activity is visible, especially in higher-grade cases.",
+      
+      "Concentric Calcification": "Psammoma bodies appear as layered, round calcifications in stroma.",
+      "Stromal Mineralization": "Stromal areas show scattered calcific debris.",
+      "Associated Necrosis": "Focal necrotic zones are seen near papillae or within the stroma."
+    }
+  }
+  
