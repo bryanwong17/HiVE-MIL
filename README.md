@@ -37,7 +37,7 @@ To link corresponding 5× and 20× patches via absolute coordinates, run:
 python create_hierarchical_features.py \
 --dataset-root-path `DATASET_ROOT` \
 --dataset-name `DATASET_NAME` \
---feature-extractor-name `plip`|`quiltnet`|`conch` \
+--feature-extractor-name `FEATURE_EXTRACTOR_NAME` \
 --low-mag 5x \
 --high-mag 20x \
 --max-patches 16
