@@ -14,6 +14,7 @@
 
 ## 📣 Updates
 
+* **2025.12.16** — Released interpretability analysis code.
 * **2025.11.24** — Released all preprocessed WSI features, full codebase, and instructions for running HiVE-MIL.
 * **2025.09.18** — Our **HiVE-MIL** has been accepted at **NeurIPS 2025**! 🔥🎉
 * **2025.05.16** — Released the initial code submission.
@@ -273,9 +274,13 @@ Parameter Descriptions:
 
 After training, you can check the mean and standard deviation of ACC, AUC, and Macro F1 across the few-shot splits in the `results.csv` file, located in the `RESULT_DIR` folder. These values should closely match the main results reported in **Table 1** of the paper.
 
+### 8. Interpretability Analysis
+
+Please refer to `interpretability_analysis.ipynb`, which provides interpretable evidence based on the description of the contributing text descriptions (5x and 20x)
+
 ## Citation
 
-If you find our work useful in your research, please consider citing our [paper](https://arxiv.org/abs/2505.17982) at:
+If you find our work useful in your research, please consider starring 🌟 this repo and citing our [paper](https://arxiv.org/abs/2505.17982) at:
 
 ```
 @article{wong2025few,
