@@ -357,7 +357,14 @@ class CustomCLIP(nn.Module):
 
         # Hierarchical Heterogeneous Graph Learning
         x5_text_embeddings, x5_image_embeddings, x20_text_embeddings, x20_image_embeddings = self.graph_prompt_learner(graph, all_features)
-    
+
+        # Store embeddings for interpretability analysis
+        self.x5_mask = image_mask
+        self.x5_text_embeddings = x5_text_embeddings
+        self.x5_image_embeddings = x5_image_embeddings
+        self.x20_text_embeddings = x20_text_embeddings
+        self.x20_image_embeddings = x20_image_embeddings
+        
         # Logits Computation (High Magnification)
         logits_high = x20_image_embeddings @ x20_text_embeddings.reshape(-1, self.dim).t()
         k = min(100, logits_high.size(0))
