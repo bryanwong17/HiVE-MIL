@@ -1,8 +1,11 @@
 <h1 align="center">[NeurIPS 2025] Few-Shot Learning from Gigapixel Images via Hierarchical Vision-Language Alignment and Modeling</h1>
 
 <p align="center">
+  <a href="https://papers.nips.cc/paper_files/paper/2025/hash/675dc71676eb3bec5326824365a9bac2-Abstract-Conference.html">
+    <img src="https://img.shields.io/badge/Proceedings-NeurIPS_2025-6A0DAD" alt="Proceedings">
+  </a>
   <a href="https://arxiv.org/abs/2505.17982">
-    <img src="https://img.shields.io/badge/📑_Paper-arXiv-red" alt="Paper">
+    <img src="https://img.shields.io/badge/📑_Paper-arXiv-red" alt="arXiv">
   </a>
   <a href="https://openreview.net/forum?id=ZC2rbIYWfy">
     <img src="https://img.shields.io/badge/OpenReview-NeurIPS_2025-6A0DAD" alt="OpenReview">
@@ -281,7 +284,7 @@ Please refer to `interpretability_analysis.ipynb`, which provides interpretable 
 
 ## Citation
 
-If you find our work useful in your research, please consider starring 🌟 this repo and citing our [paper](https://arxiv.org/abs/2505.17982) at:
+If you find our work useful in your research, please consider starring 🌟 this repo and citing our [paper](https://papers.nips.cc/paper_files/paper/2025/hash/675dc71676eb3bec5326824365a9bac2-Abstract-Conference.html) at:
 
 ```
 @article{wong2026few,
