@@ -16,8 +16,8 @@
 </p>
 
 ## 📣 Updates
-
-* **2026.05.20** — The proceedings version is now available: [NeurIPS 2025 Proceedings](https://papers.nips.cc/paper_files/paper/2025/hash/675dc71676eb3bec5326824365a9bac2-Abstract-Conference.html) and the citation has been updated accordingly.
+* **2026.08.05** — Updated the citation.
+* **2026.05.20** — The proceedings version is now available: [NeurIPS 2025 Proceedings](https://papers.nips.cc/paper_files/paper/2025/hash/675dc71676eb3bec5326824365a9bac2-Abstract-Conference.html)
 * **2025.12.16** — Released interpretability analysis code.
 * **2025.11.24** — Released all preprocessed WSI features, full codebase, and instructions for running HiVE-MIL.
 * **2025.09.18** — Our **HiVE-MIL** has been accepted at **NeurIPS 2025**! 🔥🎉
@@ -284,16 +284,16 @@ Please refer to `interpretability_analysis.ipynb`, which provides interpretable 
 
 ## Citation
 
-If you find our work useful in your research, please consider starring 🌟 this repo and citing our [paper](https://papers.nips.cc/paper_files/paper/2025/hash/675dc71676eb3bec5326824365a9bac2-Abstract-Conference.html) at:
+If you find our work useful in your research, please consider starring 🌟 this repo and citing our [paper](https://openreview.net/forum?id=ZC2rbIYWfy) at:
 
 ```
-@article{wong2026few,
-  title={Few-shot learning from gigapixel images via hierarchical vision-language alignment and modeling},
-  author={Wong, Bryan and Kim, Jongwoo and Fu, Huazhu and Yi, Mun},
-  journal={Advances in Neural Information Processing Systems},
-  volume={38},
-  pages={71313--71354},
-  year={2026}
+@inproceedings{
+    wong2025few,
+    title     = {Few-shot learning from gigapixel images via hierarchical vision-language alignment and modeling},
+    author    = {Wong, Bryan and Kim, Jongwoo and Fu, Huazhu and Yi, Mun},
+    booktitle = {Proceedings of the 39th Conference on Neural Information Processing Systems (NeurIPS)},
+    year      = {2025}
+    url       = {https://openreview.net/forum?id=ZC2rbIYWfy}
 }
 ```
 
